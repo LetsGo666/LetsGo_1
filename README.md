@@ -7,9 +7,9 @@
 ##### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
 ##### :arrow_double_down: [官方网站链接](https://appshare.onelink.me/7uiT/a60e7e13)
 
-**:gift: 下载完成可免费领会员**
+**:gift: 下载完成可免费领会员！**
 
-**:gift: 填写朋友ID，还能领额外福利**
+**:gift: 填写朋友ID，还能领额外福利！**
 
 ---
-<img src="https://github.com/LetsGo666/LetsGo/blob/main/image.png" width="400" height="330" align="middle" />
+<img src="https://github.com/LetsGo666/LetsGo/blob/main/image.png" width="400" height="300" align="middle" />
