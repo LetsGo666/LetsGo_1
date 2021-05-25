@@ -1,4 +1,4 @@
-### 快连VPN - 永远能连上的 VPN！
+### 快连VPN - 永远能连上的 VPN
 **:earth_africa: 稳定运行已经超1500天！**
 
 **:lock: 无需任何信息即可注册！**
@@ -8,7 +8,7 @@
 **:man: 已经助力2000W+用户翻墙！**
 
 ---
-### 点击右上角在浏览器中打开下载！
+### 点击右上角在浏览器中打开下载
 #### :arrow_double_down: [iOS 版本下载教程](https://appshare.onelink.me/7uiT/1c9f9287)
 #### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/fa80bb40)
 #### :arrow_double_down: [Windows 版本.exe](https://appshare.onelink.me/7uiT/cd934bda)
