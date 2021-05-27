@@ -9,7 +9,8 @@
 
 ---
 ### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [iOS 版本下载教程](https://appshare.onelink.me/7uiT/1c9f9287)
+#### :arrow_double_down: [iOS内测版本（中国区ID）](https://appshare.onelink.me/7uiT/1c9f9287)
+#### :arrow_double_down: [iOS商店版本（非中国ID）](https://appshare.onelink.me/7uiT/33e7470c)
 #### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/fa80bb40)
 #### :arrow_double_down: [Windows 版本.exe](https://appshare.onelink.me/7uiT/cd934bda)
 #### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
